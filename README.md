@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @jeppaleno
-- 👀
-- 🌱 I’m UX & game designer learning to code. 
--
+Jesper Lundquist
 - 
 
 <!---
